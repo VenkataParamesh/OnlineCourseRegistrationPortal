@@ -7,4 +7,4 @@ This is the code for Online course registration portal for student academic acti
 
 Admin panel username and Password:
  username : admin
- password : VenkataParamesh123
+ password : admin@123
